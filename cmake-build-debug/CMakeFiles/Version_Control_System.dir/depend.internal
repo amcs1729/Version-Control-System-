@@ -6,7 +6,7 @@ CMakeFiles/Version_Control_System.dir/main.cpp.o
  /home/arnab/Desktop/Version Control System/file_reader.cpp
  /home/arnab/Desktop/Version Control System/init.cpp
  /home/arnab/Desktop/Version Control System/list_of_files.cpp
- /home/arnab/Desktop/Version Control System/lzw_v5.cpp
  /home/arnab/Desktop/Version Control System/main.cpp
- /home/arnab/Desktop/Version Control System/sha256.cpp
- /home/arnab/Desktop/Version Control System/sha256.h
+ /home/arnab/Desktop/Version Control System/pkg/LZW/lzw_v5.cpp
+ /home/arnab/Desktop/Version Control System/pkg/sha256/sha256.cpp
+ /home/arnab/Desktop/Version Control System/pkg/sha256/sha256.h

@@ -2,7 +2,7 @@
 #include<fstream>
 #include<sstream>
 #include<string>
-#include "sha256.cpp"
+#include "pkg/sha256/sha256.cpp"
 
 using namespace std;
 class file_reader {

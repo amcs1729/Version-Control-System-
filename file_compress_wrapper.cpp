@@ -1,4 +1,4 @@
-#include "lzw_v5.cpp"
+#include "pkg/LZW/lzw_v5.cpp"
 
 class file_compression_wrapper {
 public:

@@ -7,8 +7,8 @@
 #IncludeRegexTransform: 
 
 /home/arnab/Desktop/Version Control System/file_compress_wrapper.cpp
-lzw_v5.cpp
-/home/arnab/Desktop/Version Control System/lzw_v5.cpp
+pkg/LZW/lzw_v5.cpp
+/home/arnab/Desktop/Version Control System/pkg/LZW/lzw_v5.cpp
 
 /home/arnab/Desktop/Version Control System/file_reader.cpp
 iostream
@@ -19,8 +19,8 @@ sstream
 -
 string
 -
-sha256.cpp
-/home/arnab/Desktop/Version Control System/sha256.cpp
+pkg/sha256/sha256.cpp
+/home/arnab/Desktop/Version Control System/pkg/sha256/sha256.cpp
 
 /home/arnab/Desktop/Version Control System/init.cpp
 iostream
@@ -34,7 +34,19 @@ dirent.h
 sys/types.h
 -
 
-/home/arnab/Desktop/Version Control System/lzw_v5.cpp
+/home/arnab/Desktop/Version Control System/main.cpp
+init.cpp
+/home/arnab/Desktop/Version Control System/init.cpp
+iostream
+-
+file_reader.cpp
+/home/arnab/Desktop/Version Control System/file_reader.cpp
+file_compress_wrapper.cpp
+/home/arnab/Desktop/Version Control System/file_compress_wrapper.cpp
+list_of_files.cpp
+/home/arnab/Desktop/Version Control System/list_of_files.cpp
+
+/home/arnab/Desktop/Version Control System/pkg/LZW/lzw_v5.cpp
 algorithm
 -
 array
@@ -72,25 +84,13 @@ utility
 vector
 -
 
-/home/arnab/Desktop/Version Control System/main.cpp
-init.cpp
-/home/arnab/Desktop/Version Control System/init.cpp
-iostream
--
-file_reader.cpp
-/home/arnab/Desktop/Version Control System/file_reader.cpp
-file_compress_wrapper.cpp
-/home/arnab/Desktop/Version Control System/file_compress_wrapper.cpp
-list_of_files.cpp
-/home/arnab/Desktop/Version Control System/list_of_files.cpp
-
-/home/arnab/Desktop/Version Control System/sha256.cpp
+/home/arnab/Desktop/Version Control System/pkg/sha256/sha256.cpp
 sha256.h
-/home/arnab/Desktop/Version Control System/sha256.h
+/home/arnab/Desktop/Version Control System/pkg/sha256/sha256.h
 endian.h
 -
 
-/home/arnab/Desktop/Version Control System/sha256.h
+/home/arnab/Desktop/Version Control System/pkg/sha256/sha256.h
 string
 -
 stdint.h

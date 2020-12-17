@@ -5,8 +5,8 @@ CMakeFiles/Version_Control_System.dir/main.cpp.o: ../file_compress_wrapper.cpp
 CMakeFiles/Version_Control_System.dir/main.cpp.o: ../file_reader.cpp
 CMakeFiles/Version_Control_System.dir/main.cpp.o: ../init.cpp
 CMakeFiles/Version_Control_System.dir/main.cpp.o: ../list_of_files.cpp
-CMakeFiles/Version_Control_System.dir/main.cpp.o: ../lzw_v5.cpp
 CMakeFiles/Version_Control_System.dir/main.cpp.o: ../main.cpp
-CMakeFiles/Version_Control_System.dir/main.cpp.o: ../sha256.cpp
-CMakeFiles/Version_Control_System.dir/main.cpp.o: ../sha256.h
+CMakeFiles/Version_Control_System.dir/main.cpp.o: ../pkg/LZW/lzw_v5.cpp
+CMakeFiles/Version_Control_System.dir/main.cpp.o: ../pkg/sha256/sha256.cpp
+CMakeFiles/Version_Control_System.dir/main.cpp.o: ../pkg/sha256/sha256.h
 
