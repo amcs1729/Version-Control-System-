@@ -11,14 +11,14 @@ int main()
     init init;
     init.initialise();
 
-    file_reader fileReader;
+    /*file_reader fileReader;
     fileReader.find_hash("/home/arnab/Desktop/VCS/hello.txt");
 
-    /*file_compression_wrapper fileCompressionWrapper;
-    fileCompressionWrapper.do_test();*/
+    *//*file_compression_wrapper fileCompressionWrapper;
+    fileCompressionWrapper.do_test();*//*
 
     list_files listFiles;
-    listFiles.items("/home/arnab/Desktop/VCS/");
+    listFiles.items("/home/arnab/Desktop/VCS/");*/
 
 
     return 0;

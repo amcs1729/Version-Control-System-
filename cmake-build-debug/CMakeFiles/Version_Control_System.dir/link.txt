@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Version_Control_System.dir/main.cpp.o  -o Version_Control_System 
