@@ -1,0 +1,3 @@
+/home/arnab/Desktop/Version Control System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/arnab/Desktop/Version Control System/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/arnab/Desktop/Version Control System/cmake-build-debug/CMakeFiles/Version_Control_System.dir
